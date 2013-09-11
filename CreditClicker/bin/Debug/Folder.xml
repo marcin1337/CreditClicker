@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<ArrayOfFolder>
+  <Folder>
+    <FolderName>INBOX</FolderName>
+  </Folder>
+  <Folder>
+    <FolderName>[Gmail]/Spam</FolderName>
+  </Folder>
+  <Folder>
+    <FolderName>TESTFOLDER</FolderName>
+  </Folder>
+</ArrayOfFolder>

@@ -1,0 +1,42 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\bin\Release\CreditClicker.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\bin\Release\CreditClicker.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\gmail.EditEmailAccounts.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\gmail.EditWildcards.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\gmail.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\CreditClicker.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\CreditClicker.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\CreditClicker\obj\x86\Release\CreditClicker.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\bin\Release\CreditClicker.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\bin\Release\CreditClicker.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\gmail.EditEmailAccounts.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\gmail.EditWildcards.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\gmail.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.pdb
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\bin\Release\CreditClicker.exe
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\bin\Release\CreditClicker.pdb
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\gmail.EditEmailAccounts.resources
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\gmail.EditWildcards.resources
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\gmail.Form1.resources
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.Properties.Resources.resources
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.exe
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.pdb
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\Visual Studio 2010\Projects\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.csproj.GenerateResource.Cache
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.exe
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.pdb
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\bin\Release\CreditClicker.exe
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\bin\Release\CreditClicker.pdb
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.csprojResolveAssemblyReference.cache
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\gmail.EditEmailAccounts.resources
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\gmail.EditWildcards.resources
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\gmail.Form1.resources
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.Properties.Resources.resources
+E:\MYPROGRAMS\c#\CreditClicker\CreditClicker\obj\x86\Release\CreditClicker.csproj.GenerateResource.Cache
